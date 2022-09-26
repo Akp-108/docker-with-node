@@ -70,4 +70,4 @@ docker run -d -p 3000:9000 --name <container_name> <image_name>
 
 Output of my Express web application
 
-![photo](./images/output.png)
+
